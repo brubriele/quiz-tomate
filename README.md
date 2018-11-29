@@ -1,2 +1,2 @@
 # quiz-tomate
-teste-treino
+treino de estilos de marcadores e validação
